@@ -10,5 +10,20 @@ public class Main {
         stopnieC=scanner.nextDouble();
         stopnieF=1.8 * stopnieC + 32;
         System.out.println("Stopnie f:" + stopnieF);
+
+
+        double z1, z2, z3;
+        Scanner scanner1 = new Scanner(System.in);
+        System.out.println("Pierwsza liczba");
+        z1=scanner1.nextDouble();
+        System.out.println("Druga liczba");
+        z2=scanner1.nextDouble();
+        System.out.println("Trzecia liczba");
+        z3=scanner1.nextDouble();
+        if (z1>z2){
+            System.out.println(z1+" jest najwieksze");
+        }else{
+            System.out.println(z2 + "jest najwieksze");
+        }
     }
 }
