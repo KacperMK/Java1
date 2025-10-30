@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java1.iml" filepath="$PROJECT_DIR$/.idea/Java1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java2/Java2.iml" filepath="$PROJECT_DIR$/Java2/Java2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaZadania4/JavaZadania4.iml" filepath="$PROJECT_DIR$/JavaZadania4/JavaZadania4.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaZadanie1/JavaZadanie1.iml" filepath="$PROJECT_DIR$/JavaZadanie1/JavaZadanie1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Javazad3/Javazad3.iml" filepath="$PROJECT_DIR$/Javazad3/Javazad3.iml" />
       <module fileurl="file://$PROJECT_DIR$/PodstawyJavy/PodstawyJavy.iml" filepath="$PROJECT_DIR$/PodstawyJavy/PodstawyJavy.iml" />
